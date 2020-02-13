@@ -1,3 +1,3 @@
 # FATEC-Santo-Andre---ROBOCAR
 
-www.robocarrace.com.br
+- Link da Competição: www.robocarrace.com.br
